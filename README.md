@@ -65,7 +65,7 @@ By the end of this project, participants will create a fully functional handwrit
      - **Video**: [NumPy Crash Course](https://www.youtube.com/watch?v=QUT1VHiLmmI)
   2. Set up form submission to send drawing data from the client to the server.
      - **Reading**: [Form Submission in Flask](https://flask.palletsprojects.com/en/2.3.x/tutorial/views/)  
-     - **Video**: [Forms in Flask](https://www.youtube.com/watch?v=MsJx06yXMPc)
+     - **Video**: [Forms in Flask](https://www.youtube.com/watch?v=GbJPqu0ff9A)
   3. Add functionality to serialize and store data for training.
 
 - **Deliverables**:
@@ -92,10 +92,10 @@ By the end of this project, participants will create a fully functional handwrit
 - **Tasks**:
   1. Load the trained model into the Flask app and integrate predictions with user input.
      - **Reading**: [TensorFlow Model Loading](https://www.tensorflow.org/guide/saved_model)  
-     - **Video**: [Using TensorFlow Models in Applications](https://www.youtube.com/watch?v=fjWypdKhyBU)
+     - **Video**: [Using TensorFlow Models in Applications](https://www.youtube.com/watch?v=QPDsEtUK_D4)
   2. Display prediction results on the practice page.
      - **Reading**: [Flask Response Handling](https://flask.palletsprojects.com/en/2.3.x/tutorial/templates/)  
-     - **Video**: [Flask App Deployment](https://www.youtube.com/watch?v=iM3DMwdYqO8)
+     - **Video**: [Flask App Deployment](https://www.youtube.com/watch?v=oA8brF3w5XQ&t=626s)
   3. Test the app for accuracy and fix any issues.
 
 - **Deliverables**:
@@ -107,14 +107,14 @@ By the end of this project, participants will create a fully functional handwrit
 - **Tasks**:
   1. Test all features, including drawing, saving, and predictions.
      - **Reading**: [Unit Testing in Flask](https://flask.palletsprojects.com/en/2.3.x/testing/)  
-     - **Video**: [Testing Flask Apps](https://www.youtube.com/watch?v=WFr2WgN9_xE)
+     - **Video**: [Testing Flask Apps](https://www.youtube.com/watch?v=RLKW7ZMJOf4)
   2. Deploy the application using platforms like Heroku or AWS.
      - **Reading**: [Deploying Flask Apps](https://devcenter.heroku.com/articles/getting-started-with-python)  
-     - **Video**: [Deploy Flask on Heroku](https://www.youtube.com/watch?v=VaL1Iz1OXfI)
+     - **Video**: [Deploy Flask on Heroku](https://www.youtube.com/watch?v=miQmOlPF_Gs)
 
 - **Deliverables**:
   - Deployed application accessible via a public URL.
+ 
+  **The End**
 
 ---
-
-Let me know if you need more help with any part of the project!
