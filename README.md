@@ -135,6 +135,13 @@ Participants are encouraged to customize the user interface and incorporate addi
 
 - **Deliverables**:
   - Deployed application accessible via a public URL.
+
+
+ **Cheockout the screenshots for your reference**
+ ![practice](https://github.com/user-attachments/assets/4c3d2344-a8da-4500-8799-8c725e927da4)
+ ![quiz](https://github.com/user-attachments/assets/22c69cad-50da-4458-b666-121359e199ab)
+![train](https://github.com/user-attachments/assets/90e48b61-ca93-4b0a-a657-40843a34eb0d)
+
  
   **The End**
 
