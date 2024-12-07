@@ -30,6 +30,18 @@ By the end of this project, participants will create a fully functional handwrit
 ![image](https://github.com/user-attachments/assets/692e9e73-4733-4877-a501-55aa3a10c1bc)
 ![image](https://github.com/user-attachments/assets/bbbcc3ce-903b-4119-bcc2-613fba172848)
 ![image](https://github.com/user-attachments/assets/aed3a2bc-47c8-4fda-95a7-0faee2259b91)
+![image](https://github.com/user-attachments/assets/aa061a48-7048-4380-ae87-5dfbc059bfb0)
+
+
+---
+
+# Project Structure for Feature Implementation
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
+
+---
+
+**NOTE:**
+Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
 
 ---
 
