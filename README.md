@@ -20,7 +20,16 @@ By the end of this project, participants will create a fully functional handwrit
 2. **Backend**: Python, Flask.  
 3. **Machine Learning**: TensorFlow and Keras.  
 4. **Data Handling**: NumPy and custom serialization.  
-5. **Development Tools**: VSCode or PyCharm, virtual environments (venv), Jupyter Notebooks (for ML).  
+5. **Development Tools**: VSCode or PyCharm, virtual environments (venv), Jupyter Notebooks (for ML).
+
+![image](https://github.com/user-attachments/assets/106c23cc-e367-434e-bbae-e6901eab4008)
+![image](https://github.com/user-attachments/assets/c701a316-eead-4774-b418-8c761cb459ad)
+![image](https://github.com/user-attachments/assets/06ba919d-8edb-4b02-b5b8-583e68a1e0ee)
+![image](https://github.com/user-attachments/assets/87cd8c27-5973-498e-8d01-63eaf5574787)
+![image](https://github.com/user-attachments/assets/544ca0bd-9e2c-41bd-a302-0e5a07ef4b55)
+![image](https://github.com/user-attachments/assets/692e9e73-4733-4877-a501-55aa3a10c1bc)
+![image](https://github.com/user-attachments/assets/bbbcc3ce-903b-4119-bcc2-613fba172848)
+![image](https://github.com/user-attachments/assets/aed3a2bc-47c8-4fda-95a7-0faee2259b91)
 
 ---
 
