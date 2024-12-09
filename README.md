@@ -1,5 +1,5 @@
 ### **Project Overview: Handwriting Recognition App**
-This project involves building a handwriting recognition app using Python, Flask, and TensorFlow. The app includes functionalities such as recognizing handwritten letters, adding data to the training dataset, and providing a responsive user interface for practice and testing. The application integrates machine learning for character recognition and allows users to enhance the model with new data inputs.
+**AlphaLearner:** This project involves building a handwriting recognition app using Python, Flask, and TensorFlow. The app includes functionalities such as recognizing handwritten letters, adding data to the training dataset, and providing a responsive user interface for practice and testing. The application integrates machine learning for character recognition and allows users to enhance the model with new data inputs.
 
 ---
 
