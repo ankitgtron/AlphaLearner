@@ -111,6 +111,19 @@ The **AlphaLearner app** is an interactive learning platform aimed at teaching a
 
 ---
 
+## **Workflow Overview**
+This section illustrates the complete workflow for users and the system in the **AlphaLearner** application, covering major functionalities such as handwriting recognition, dataset management, and model enhancement.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **AlphaLearner** app, showcasing the interaction between the frontend (user interface), the backend (Flask APIs), the TensorFlow model, and the dataset storage.
+![diagram-export-12-12-2024-4_27_25-PM](https://github.com/user-attachments/assets/96d61daf-322c-483d-b4cc-116bd5d34a4d)
+
+
+---
+
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
